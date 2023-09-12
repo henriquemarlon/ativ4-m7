@@ -69,7 +69,7 @@ Aqui está uma explicação detalhada da estrutura do diretório do projeto:
     └── index.html      # Template HTML para a interface do usuário
 ```
 
-### Como usar a interface gráfica
+## Como usar a interface gráfica
 
 Na interface web da aplicação, você encontrará um formulário onde poderá inserir os detalhes:
 
